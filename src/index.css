@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+.div1{
+background-color: brown;
+height: 1100px;
+width: 300px;
+}
+.div2{
+    background-color: green;
+    height: 60px;
+    width: 100%;
+    margin-left: 300px;
+    margin-top: -1100px;
+
+}
